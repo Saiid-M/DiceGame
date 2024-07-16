@@ -23,7 +23,6 @@
         <img class="img2" src="images/dice6.png" />
       </div>
       <h2>Press F5 to refresh</h2>
-      <h2>Press F5 to play the game</h2>
     </div>
 
     <script src="index.js"></script>
